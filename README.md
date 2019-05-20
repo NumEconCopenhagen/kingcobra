@@ -18,7 +18,7 @@ This repository has its roots in the course "Introduction to Programming and Num
 
 * A data project containing an analysis of growth in GDP and growth in EDU. 
 * A model project containing an analysis of the basic Solow model, the general Solow model, the Solow model with human and the Solow model with land.
-* An exam project solving three widely different models. 
+* An exam project solving three widely different models.
 
 Furthermore, the repository also contains a feedback.txt file with a list of the groups each group member has given his peer feedback to. 
 
