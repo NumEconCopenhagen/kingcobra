@@ -14,12 +14,15 @@ A short description of the files and folders:
 
 
 # Introduction to the repository
-This repository has its roots in the course "Introduction to Programming and Numerical Analysis". It consists of three different projects:
+This repository has its roots in the course "Introduction to Programming and Numerical Analysis". It consists of three different projects which all contains a jupyter notebook where the results of each project will be presented:
 
 * A data project containing an analysis of growth in GDP and growth in EDU. 
 * A model project containing an analysis of the basic Solow model, the general Solow model, the Solow model with human and the Solow model with land.
 * An exam project solving three widely different models.
 
-Furthermore, the repository also contains a feedback.txt file with a list of the groups each group member has given his peer feedback to. 
+Furthermore, the repository also contains: 
+* A feedback.txt file with a list of the groups each group member has given his peer feedback to. 
+* A binder folder used by mybinder.org to setup an interactive version of the repository.
+* A gitignore file specifying files and folder that will not be uploaded to github which will not be tracked by git. 
 
 In order to run the projects you will need a standard Anaconda Python 3 installation. Furthermore, you will need to install the different packages introduced in the first lines of each project.
