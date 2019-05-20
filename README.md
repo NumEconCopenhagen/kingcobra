@@ -16,9 +16,9 @@ A short description of the files and folders:
 # Introduction to the repository
 This repository has its roots in the course "Introduction to Programming and Numerical Analysis". It consists of three different projects:
 
-* A data project which aims
-* A model project
-* An exam project
+* A data project containing an analysis of growth in GDP and growth in EDU. 
+* A model project containing an analysis of the basic Solow model, the general Solow model, the Solow model with human and the Solow model with land.
+* An exam project solving three widely different models. 
 
 Furthermore, the repository also contains a feedback.txt file with a list of the groups each group member has given his peer feedback to. 
 
