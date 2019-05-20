@@ -10,3 +10,16 @@ A short description of the files and folders:
 * [/examproject](/examproject): Same structure as above.
 * [/modelproject](/modelproject): Same structure as above.
 * [.gitignore](/.gitignore): A textfile specifying files and folder that will not be uploaded to github, and will not be tracked by git.  
+
+
+
+# Introduction to the repository
+This repository has its roots in the course "Introduction to Programming and Numerical Analysis". It consists of three different projects:
+
+* A data project which aims
+* A model project
+* An exam project
+
+Furthermore, the repository also contains a feedback.txt file with a list of the groups each group member has given his peer feedback to. 
+
+In order to run the projects you will need a standard Anaconda Python 3 installation. Furthermore, you will need to install the different packages introduced in the first lines of each project.
