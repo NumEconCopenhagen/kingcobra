@@ -1,7 +1,7 @@
 # Introduction to the repository
-This repository has its roots in the course "Introduction to Programming and Numerical Analysis". It consists of three different projects:
+This is the repository for the group kingcobra. It has its roots in the course "Introduction to Programming and Numerical Analysis" and consists of three different projects:
 
-* A data project containing an analysis of growth in GDP and growth in EDU. 
+* A data project containing an analysis of growth in GDP and growth in EDU for a wide variety of countries. 
 * A model project containing an analysis of the basic Solow model, the general Solow model, the Solow model with human and the Solow model with land.
 * An exam project solving the "human capital accumulation"-problem, the AS-AD model and "exchange economy"-problem.
 
