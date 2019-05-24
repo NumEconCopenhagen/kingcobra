@@ -12,4 +12,4 @@ Furthermore, the repository also contains:
 * A binder folder used by mybinder.org to setup an interactive version of the repository.
 * A gitignore file specifying files and folder that will not be uploaded to github which will not be tracked by git. 
 
-As a part of the exam we have improved the data project and model project. The improvements in the data project includes fecthing data from an API, correcting some minor errors and removing redundant code. The improvements in the model project includes adding an numerical solution to Solow models from chapter 3,5 and 6 as well as correcting minor errors.
+As a part of the exam we have improved the data project and model project. The improvements in the data project includes fecthing data from an API, correcting some minor errors and removing redundant code. The improvements in the model project includes adding an numerical solution to the solow models from chapter 3, 5 and 6 as well as correcting minor errors.
