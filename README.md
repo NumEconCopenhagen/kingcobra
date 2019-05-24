@@ -5,7 +5,7 @@ This is the repository for the group kingcobra. It has its roots in the course "
 * [/modelproject](/modelproject): The folder containing our model project. This project includes an analysis of the basic Solow model, the general Solow model, the Solow model with human and the Solow model with land.
 * [/examproject](/examproject): The folder containing our exam project. This includes solving the "human capital accumulation"-problem, the AS-AD model and "exchange economy"-problem.
 
-Each folder above contains a jupyter notebook where the results will be presented.
+The folders above each contains a jupyter notebook where the results will be presented.
 
 Furthermore, the repository also contains: 
 * [Feedback.txt](/Feedback.txt): A feedback.txt file with a list of the groups each group member has given his peer feedback to. 
