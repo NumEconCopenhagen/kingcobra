@@ -5,7 +5,7 @@ This repository has its roots in the course "Introduction to Programming and Num
 * A model project containing an analysis of the basic Solow model, the general Solow model, the Solow model with human and the Solow model with land.
 * An exam project solving the "human capital accumulation"-problem, the AS-AD model and "exchange economy"-problem.
 
-Each project contains a jupyter notebook where the results of the project will be presented.
+Each project contains a jupyter notebook where the results will be presented.
 
 Furthermore, the repository also contains: 
 * A feedback.txt file with a list of the groups each group member has given his peer feedback to. 
