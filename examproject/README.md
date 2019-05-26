@@ -6,6 +6,6 @@ This project is a part of the exam in the course "Introduction to Programming an
 
 * The AS-AD model: This problem set tries to solve and analyse shocks in the AS-AD model. The first part aims at finding the equilibrium value of aggregate demand and aggregate supply. Thereafter it analyses the effect of demand disturbances on the equilibrium values. The next part simulates how the model behaves when a demand shock takes place. And lastly we simulate what effect the value of phi has on the correlation coefficient between y and pi.
 
-* The "Exchange economy"-problem: This problem set solves an exchange economy with three goods and an infinite amount of consumers. The first part plot the histograms of the budget shares for each good across agents and find the excess demand in the economy. The second and last part is devoted to find the Walras equlibrium.
+* The "Exchange economy"-problem: This problem set solves an exchange economy with three goods and an infinite amount of consumers. The first part plot the histograms of the budget shares for each good across agents and find the excess demand in the economy. The second and last part is devoted to find the Walras equlibrium, and how changes in the parameter gamma affects the level of utility.
 
 In order to run the project you will need a standard Anaconda Python 3 installation. Furthermore, you will need to install the different packages introduced in the first line of the project. The results of the project can be seen from running the file examproject.ipynb.
