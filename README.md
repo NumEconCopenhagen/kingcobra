@@ -13,4 +13,4 @@ Furthermore, the repository also contains:
 * [.gitignore](/.gitignore): A gitignore file specifying files and folder that will not be uploaded to github which will not be tracked by git. 
 * A LICENSE file specifying under which constraints the code in this repository can be used.
 
-As a part of the exam we have improved the data project and model project. The improvements in the data project includes fecthing data from an API, correcting some minor errors and removing redundant code. The improvements in the model project includes adding an numerical solution to the solow models from chapter 3, 5 and 6 as well as correcting some minor errors.
+As a part of the exam we have improved the data project and model project. The improvements in the data project includes fecthing data from an API, correcting some minor errors and removing redundant code. The improvements in the model project includes adding a numerical solution to the Solow models from chapter 3, 5 and 6 as well as correcting some minor errors.
