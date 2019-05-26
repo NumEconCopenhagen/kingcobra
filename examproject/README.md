@@ -8,4 +8,4 @@ This project is a part of the exam in the course "Introduction to Programming an
 
 * The "Exchange economy"-problem: This problem set solves an exchange economy with three goods and an infinite amount of consumers. The first part plot the histograms of the budget shares for each good across agents and find the excess demand in the economy. The second and last part is devoted to find the Walras equlibrium.
 
-In order to run the project you will need a standard Anaconda Python 3 installation. Furthermore, you will need to install the different packages introduced in the first line of the project. The results of the project can be seen from running the file exam_project.ipynb.
+In order to run the project you will need a standard Anaconda Python 3 installation. Furthermore, you will need to install the different packages introduced in the first line of the project. The results of the project can be seen from running the file examproject.ipynb.
