@@ -9,9 +9,10 @@ hbp: (https://github.com/NumEconCopenhagen/projects-2019-hbp/issues/4)
 vem: (https://github.com/NumEconCopenhagen/projects-2019-vem/issues/8)
 
 djrossil ():
-
-
-
+https://github.com/NumEconCopenhagen/projects-2019-raj/issues/5
+https://github.com/NumEconCopenhagen/projects-2019-abs/issues/6
+https://github.com/NumEconCopenhagen/projects-2019-bcg/issues/11
+https://github.com/NumEconCopenhagen/projects-2019-alexander-helene/issues/5
 
 jqw570:
 
