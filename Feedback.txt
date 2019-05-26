@@ -1,13 +1,21 @@
 This file contains a list of the groups each group member has given peer feedback to with links
 to the GitHub issues.
 
-KasperKjeldsen (sdb480):
-pytonen (https://github.com/NumEconCopenhagen/projects-2019-pytonen/issues/6)
-pickles (https://github.com/NumEconCopenhagen/projects-2019-pickles/issues/3)
-hbp (https://github.com/NumEconCopenhagen/projects-2019-hbp/issues/4)
-vem (https://github.com/NumEconCopenhagen/projects-2019-vem/issues/8)
+sdb480:
+
+pytonen: (https://github.com/NumEconCopenhagen/projects-2019-pytonen/issues/6)
+pickles: (https://github.com/NumEconCopenhagen/projects-2019-pickles/issues/3)
+hbp: (https://github.com/NumEconCopenhagen/projects-2019-hbp/issues/4)
+vem: (https://github.com/NumEconCopenhagen/projects-2019-vem/issues/8)
 
 djrossil ():
 
 
-emilbroner ():
+
+
+jqw570:
+
+DYE Code: https://github.com/NumEconCopenhagen/projects-2019-dye-code/issues/3
+MSc: https://github.com/NumEconCopenhagen/projects-2019-msc/issues/7
+Hold 1: https://github.com/NumEconCopenhagen/projects-2019-hold-1/issues/8
+adu: No model project to give feedback on at the time 
