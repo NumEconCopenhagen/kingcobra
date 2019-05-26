@@ -1,8 +1,8 @@
-# Examproject - Solving the "human capital accumulation"-problem, the AS-AD model and the "exchange economy"-problem
+# Examproject - Solving the "Human capital accumulation"-problem, the AS-AD model and the "Exchange economy"-problem
 
 This project is a part of the exam in the course "Introduction to Programming and Numerical Analysis". It consists of three different problem sets:
 
-* The "human capital accumulation"-problem: This problem set solves the utility problem for a consumer in a given economy and how she decides whether to work or not. The first part aims at finding her utility in period two and equivalently how much labour she wanna supply. The second part is the same as part one except we now look at period 1. And lastly we analyze if she wanna work if the wage is below the unemployment benefits.
+* The "Human capital accumulation"-problem: This problem set solves the utility problem for a consumer in a given economy and how she decides whether to work or not. The first part aims at finding her utility in period two and equivalently how much labour she wanna supply. The second part is the same as part one except we now look at period 1. And lastly we analyze if she wanna work if the wage is below the unemployment benefits.
 
 * The AS-AD model: This problem set tries to solve and analyse shocks in the AS-AD model. The first part aims at finding the equilibrium value of aggregate demand and aggregate supply. Thereafter it analyses the effect of demand disturbances on the equilibrium values. The next part simulates how the model behaves when a demand shock takes place. And lastly we simulate what effect the value of phi has on the correlation coefficient between y and pi.
 
