@@ -8,7 +8,7 @@ pickles: (https://github.com/NumEconCopenhagen/projects-2019-pickles/issues/3)
 hbp: (https://github.com/NumEconCopenhagen/projects-2019-hbp/issues/4)
 vem: (https://github.com/NumEconCopenhagen/projects-2019-vem/issues/8)
 
-djrossil ():
+djrossil () - jth499 :
 https://github.com/NumEconCopenhagen/projects-2019-raj/issues/5
 https://github.com/NumEconCopenhagen/projects-2019-abs/issues/6
 https://github.com/NumEconCopenhagen/projects-2019-bcg/issues/11
